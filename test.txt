@@ -1,7 +1,53 @@
 
-/******************/
-teste de escrita
+/*****************************************/
+subida PROD 30-03-2026
 
-/******************/
-teste de LEITURA
-/******************/
+/***************************************/
+MKData - ajuste da atualização cadastral 
+{mevo} {solus}
+# migra-paciente
+
+/*******************************************************/
+# check-in telemedicina - A e I
+# ajustes do Fleury
+# números telefone carteirinha
+# Google Play R.e.j.e.c.t.e.d  
+# 
+
+/*******************************************************/
+
+
+
+/*******************************************************/
+HSC
+Apple Id - conta apple encontrada, necessita transição 
+para HSC CNPJ Hospital
+
+acessos  repositórios
+mur, ger, dio
+
+resultado de exames LAB
+-----------------------
+
+prescrição do medico
+
+procedimentos de exames (1 prescrição pode gerar um ou vários procedimentos de exames)
+
+laudos dos exames ( um laudo por procedimento de exame)
+
+
+
+resultado de exames IMAG
+--------------------------
+prescrição do medico
+
+procedimentos de exames (1 prescrição pode gerar um (apenas um)  procedimento de exame)
+laudos dos exames ( um laudo por procedimento de exame) . aqui tem uma observação que 
+alguns procedimentos de exames de imagem não possui laudos então tem um sistema que 
+gera automático o laudo para esses casos
+
+
+
+/*******************************************************/
+
+
